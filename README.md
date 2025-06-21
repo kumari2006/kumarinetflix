@@ -1,1 +1,1 @@
-# kumarinetflix
+# netflix-clone
